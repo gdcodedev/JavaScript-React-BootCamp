@@ -1,0 +1,8 @@
+O que são variáveis?
+
+- Variáveis são dados que "variam", imagem uma caixa onde pode-se colocar quase qualquer coisa dentro dela.
+Pode ser uma lista de nomes "Array", cartões com números, objetos no geral, resumindo variáveis são como uma caixa que guarda valores.
+
+Links : 
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types
