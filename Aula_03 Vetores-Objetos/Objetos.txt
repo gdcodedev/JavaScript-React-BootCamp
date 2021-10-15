@@ -1,0 +1,22 @@
+# Objetos
+- Dados que possuem propriedades e valores que definem suas caracteristicas. Deve ser declaro entre chaves 
+"{}".
+
+- Ex: Imagine uma xícara azul. Ela tem cor, pode t er vários tamanhos e funções(quero café). Pode ser declarada assim.
+
+var xicara = {
+  cor: 'Azul',
+  tamanho: 'p',
+  funcao: tomarCafe()
+}
+
+# Manupulando objetos
+
+- As propriedades de objetos podem ser atribuídas à variáveis, facilitando a manipulação do objeto.
+Chamamos isso de desestruturação.
+
+Ex:  var xicara = {cor: 'Azul', tamanho:'p', funcao: tomarCafe()}
+
+var  cor = xicara.cor;
+var tamanho = xicara.tamanho;
+var funcao = xicara.tomarCafe();

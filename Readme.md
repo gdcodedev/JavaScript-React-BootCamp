@@ -8,10 +8,13 @@
 [Variáveis](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types) | 
 [Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators) | 
 [Array](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array) | 
+[Objetos](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects) | 
 
 - [x]  Criando estrutuda html.
 - [x]  Adicionando JavaScript a página.
 - [x] Variáveis.
 - [x] Tipos primitivos.   
 - [x] Operadores.
+- [x] Arrays
+- [x] Objetos  
   
