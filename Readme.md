@@ -6,6 +6,7 @@
 [Glossário](developer.mozilla.org/pt/BR/docs/Glossary/JavaScript)  | 
 [Oque é JavaScript](developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First%steps/Whats%is%JavaScript) | 
 [Variáveis](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types) | 
+[Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators) | 
 
 - [x]  Criando estrutuda html.
 - [x]  Adicionando JavaScript a página.
