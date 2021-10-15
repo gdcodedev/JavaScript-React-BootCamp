@@ -39,3 +39,20 @@ console.log(array);
 // slice() - retorna uma parte de um array existente;
 let novoArray = array.slice(0, 3);
 console.log(novoArray);
+
+
+// OBJETOS
+
+let object = {string: 'string', number: 1, boolean: true, array: ["array"], objectInterno: {objectInterno: "Objeto interno"} };
+console.log(object.objectInterno);
+
+// Desestruturando objetos 
+
+var string = object.string;
+console.log(string);
+
+var array4 = object.array;
+console.log(array4);
+
+var {string, boolean, objectInterno} = object;
+console.log(string, boolean, objectInterno);
