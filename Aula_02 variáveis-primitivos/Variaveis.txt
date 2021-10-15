@@ -6,3 +6,22 @@ Pode ser uma lista de nomes "Array", cartões com números, objetos no geral, re
 Links : 
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types
+
+Existem 3 modos de  declarar as variáveis em JavaScript:
+
+var - escopo global e loca, pode ter seu valor alterado, se não tiver um valor inicial será tratado como null;
+
+let - escopo local de bloco, pode ter seu valor alterado, se não tiver um valor inicial será tradado como null;
+
+const - escopo local de bloco, apenas leitura o valor inicial não pode ser alterado.
+
+
+Escopo : 
+
+- O escopo em JavaScript define a limitação e visibilidade de um bloco de código.
+
+- Escopo Global : quando a variável é declarada fora de qualquer bloco, sua visibilidade fica disponível em todo o código.
+"um exemplo do var que pode ser acessado por todo o código".
+
+- Escopo Local : quando a variável é declarada dentro de um bloco de código, sua visibilidade pode ficar disponível ou não.
+"um exemplo do let que pode ser acessado somente pelo bloco de código relacionado".

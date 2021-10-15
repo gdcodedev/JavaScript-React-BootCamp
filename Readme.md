@@ -11,3 +11,5 @@
 - [x]  Adicionando JavaScript a página.
 - [x] Variáveis.
 - [x] Tipos primitivos.   
+- [x] Operadores.
+- [ ]  

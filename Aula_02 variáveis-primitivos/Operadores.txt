@@ -1,0 +1,2 @@
+Para mais informações seguir  a CDN : 
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators
