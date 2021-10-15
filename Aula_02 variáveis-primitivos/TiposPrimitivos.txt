@@ -1,0 +1,15 @@
+ Tipos Primitivos
+ 
+ - As variáveis em JavaScript podem guardar tipos de dados que chamamos de tipos primitivos.
+ - Variáveis podem guardar valores dos tipos: 
+
+  Boolean;
+  Null;
+  undefined;
+  Number;
+  String;
+  Array;
+  Object;
+  Function.
+
+  
