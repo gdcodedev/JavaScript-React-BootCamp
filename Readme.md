@@ -12,4 +12,4 @@
 - [x] Variáveis.
 - [x] Tipos primitivos.   
 - [x] Operadores.
-- [ ]  
+  
