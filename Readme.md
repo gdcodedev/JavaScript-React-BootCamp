@@ -9,12 +9,16 @@
 [Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators) | 
 [Array](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array) | 
 [Objetos](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects) | 
+[Estruturas condicionais](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals) | 
+[Laços de repetição](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration) | 
 
 - [x]  Criando estrutuda html.
 - [x]  Adicionando JavaScript a página.
 - [x] Variáveis.
 - [x] Tipos primitivos.   
 - [x] Operadores.
-- [x] Arrays
-- [x] Objetos  
+- [x] Arrays.
+- [x] Objetos.
+- [x] Estruturas Condicionais.
+- [x] Laços de repetição.
   
