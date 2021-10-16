@@ -1,0 +1,43 @@
+#1 Funções declarativas
+
+- São funções que possuem o uso mais comun, deve ser declarada usando a palavra reservada "function"
+seguida do nome da função, parênteses '()' e chaves '{}':
+- Ex :
+
+  function nomeDaFuncao(){
+    ${instrucao}
+  }
+  
+  #2 Expressões de Funções
+  
+  - São funções atribuídas à expressões. A nomeação das funções por expressão é opcional:
+  - Ex:
+
+  var funcao = function nomeDaFuncao(){
+    ${instrucao};
+  }
+
+  - Ex 2: 
+  
+  var funcao = function(){
+    ${instrucao};
+  };
+
+
+  #3 Arrow function
+
+  - São funções de expressão de sintaxe curta. Arrow functions sempre serão anônimas, e portanto não podem ser nomeadas.
+  Deve ser declarada com parênteses '()', seguido de '=>' e depois chaves '{}'.
+  - Ex: 
+
+  var funcao = () => {
+    ${instrucao};
+  }
+
+  #4 Criando uma calculadora 
+
+- Para estte exercício vamos utilizar alguns mpetodos nativos do JavaScript:
+- Number() - para converter valores em números;
+- Prompt() - para  registrar entradas de usuário;
+- Aler() - para monstrar mensagem ao usuário;
+- Template Strings - para usar strings junto com exprssões;
