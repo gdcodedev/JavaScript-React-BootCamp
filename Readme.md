@@ -12,6 +12,7 @@
 [Estruturas condicionais](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals) | 
 [Laços de repetição](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration) | 
 [Funções](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions) | 
+[Tipos de Funções]() | 
 
 - [x]  Criando estrutuda html.
 - [x]  Adicionando JavaScript a página.
@@ -23,4 +24,7 @@
 - [x] Estruturas Condicionais.
 - [x] Laços de repetição.
 - [x] Funções.
+- [x] Tipos de funções.
+- [x] Projeto conclusão - Sintaxe básica em JavaScript.
+- [ ]   
   
