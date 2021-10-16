@@ -23,5 +23,12 @@ Ex : var jogador1 = 0;
 
         // Como lçer: se o jogador1 tiver valor maior que 0 ele marcou ponto;
 
-        
-    
+
+  # Laços  de repetição 
+  - São estruturas condicionais que repetem uma instrução até atingir determinada condição;
+
+  - for;
+  - for/in;
+  - for/of;
+  - while;
+  - do/while;
