@@ -33,6 +33,16 @@
 - [x] Number.
 - [x] Window.prompt.
 - [x] Window.alert. 
-- [x] Template String.   
+- [x] Template String.
+
+# Exercícios e Conclusões
+
+- [x] Exercício 01
+- [x] Exercício 02 
+- [x] Exercício 03
+- [x] Exercício 04 
+- [x] Exercício 05 
+
+
 
   
