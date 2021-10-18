@@ -45,7 +45,7 @@
 
 
 # Atigos
-[O que é um programa/software](https://tecnoblog.net/311647/o-que-e-software/)  | 
+[A integração de desenvolvimento de software](http://sedici.unlp.edu.ar/handle/10915/24194)  | 
 
 
 
