@@ -1,0 +1,10 @@
+- Oque são vetores ou arrays;
+- Como manipular arrays;
+- Oque são objetos;
+- Desestruturando Objetos;
+
+
+# Vetores ou Arrays 
+
+Arrays são um tipo de lista, ou matriz de variáveis, onde cada variável possui um índice.
+Os valores podem ser de vários tipos.

@@ -1,0 +1,38 @@
+# Funções 
+
+- Objetivos
+1- O que são funções?;
+2- Como declarar funções;
+3- Funções com parâmetros;
+
+#1 Funções:
+- São blocos de comandos e instruções para a execução de determinadas tarefas:
+- Ex:
+
+function nomeDaFuncao(){
+  ${instrucao};
+}
+    nomeDaFuncao();
+
+
+    // Como declarar?
+    - Geralmente se utiliza a palavra reservada "function" seguida de parênteses "()" e chaves "{}":
+    - Ex:
+
+    function funcao(){
+      console.log('Mensagem da função');
+    }
+    funcao();
+
+    - () indica que é um objeto do tipo function;
+    - {} indica que é um bloco de instrução;
+
+  #2 Funções com parâmetros
+
+  - As funções podem recever em sua declaração, parâmetros, que servem como variáveis, onde sua atribuição
+  pode ser feita durante a chamada da função:
+  - Ex: 
+  function nomeDaFuncao(parametro){
+    ${instrucao};
+  }
+    nomeDaFuncao(valorDoParametro);
