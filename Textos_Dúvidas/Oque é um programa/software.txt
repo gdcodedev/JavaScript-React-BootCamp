@@ -1,0 +1,5 @@
+#1 O que é um programa/software
+
+- É um conjunto de declarações ( statements);
+- Statements são conjuntos de expressões(expressions);
+- Expression é todo o fragmento de código que produz um valor;

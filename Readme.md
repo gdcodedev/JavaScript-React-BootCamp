@@ -2,7 +2,7 @@
 
 - O JavaScript é uma linguagem de programação de alto nível, que integra o desenvolvimento de apps e páginas web. É uma das linguagens de programação mais usadas no mundo do desenvolvimento.
 
-# Para saber mais :
+# Para saber mais sobre a linguagem:
 [Glossário](developer.mozilla.org/pt/BR/docs/Glossary/JavaScript)  | 
 [Oque é JavaScript](developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First%steps/Whats%is%JavaScript) | 
 [Variáveis](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types) | 
@@ -42,6 +42,11 @@
 - [x] Exercício 03 - Boolean.
 - [x] Exercício 04  - Comparações com operadores lógicos.
 - [x] Exercício 05  - Operação NaN.
+
+
+# Atigos
+[O que é um programa/software](https://tecnoblog.net/311647/o-que-e-software/)  | 
+
 
 
 
