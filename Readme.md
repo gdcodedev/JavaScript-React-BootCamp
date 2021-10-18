@@ -37,11 +37,11 @@
 
 # Exercícios e Conclusões
 
-- [x] Exercício 01
-- [x] Exercício 02 
-- [x] Exercício 03 
-- [x] Exercício 04  - Comparações com operadores lógicos
-- [x] Exercício 05 
+- [x] Exercício 01 - String.
+- [x] Exercício 02 - Number.
+- [x] Exercício 03 - Boolean.
+- [x] Exercício 04  - Comparações com operadores lógicos.
+- [x] Exercício 05  - Operação NaN.
 
 
 
