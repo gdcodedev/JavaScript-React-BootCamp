@@ -39,8 +39,8 @@
 
 - [x] Exercício 01
 - [x] Exercício 02 
-- [x] Exercício 03
-- [x] Exercício 04 
+- [x] Exercício 03 
+- [x] Exercício 04  - Comparações com operadores lógicos
 - [x] Exercício 05 
 
 
