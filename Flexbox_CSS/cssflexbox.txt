@@ -39,3 +39,5 @@ sem a necessidade de definnição de valores fixos.
 - row-reverse: sentido oposta à direção do texto.
 
 - column: ordenação de cima para baixo, em coluna unica.
+
+- column-reverse: ordenção inversa, de baixo para cima.
