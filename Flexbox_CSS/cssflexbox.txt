@@ -1,0 +1,41 @@
+# Objetivo do Curso
+
+- Apresentar os fundamentos e aplicações da propriedade flexbox na criação de layouts responsivos,
+sem a necessidade de definnição de valores fixos.
+
+- Introdução ao flexbox
+- Fundamentos do flexbox
+- Porjeto integrado
+
+- Flexbox foi projetaddo como um modelo de layout unidimensional como um método que pode oferecer distribuição de espaço entre itens em uma interface e recursos de alinhamento.
+
+- Flex Container, é a tag que envolve os itens, será nela que iremos aplicar a propriedade "display flex". Transforma todos os seus itens filhos em flex itens.
+
+- Flex Container propriedades relacionadas:
+
+- display
+- flex-direction
+- flex-wrap
+- flex-flow
+- justfy-content
+- align-items
+- align-content
+
+- Flex Item
+- São os elementos filhos diretos do Flex Container. E também podem se tornar Flex Container. propriedades relacionadas:
+
+- flex-grow
+- flex-basis
+- flex-shrink
+- flex
+- order
+- align-self
+
+
+- flex-direction, é a propriedade que estabelece o eixo principal do Container, definindo assim a direção que os flex items são colocados no flex Container.
+
+- row ( padrão ): à direção do testo, esquerda para direita.
+
+- row-reverse: sentido oposta à direção do texto.
+
+- column: ordenação de cima para baixo, em coluna unica.
