@@ -17,7 +17,7 @@
 [Window.prompt ](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/prompt) | 
 [Window.alert](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/alert) | 
 [Template String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals) | 
-[Flexbox Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | 
+[Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | 
 
 - [x]  Criando estrutuda html.
 - [x]  Adicionando JavaScript a página.
