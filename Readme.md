@@ -35,7 +35,7 @@
 - [x] Window.prompt.
 - [x] Window.alert. 
 - [x] Template String.
-- [x] Flexbox CSS 
+- [x] Flexbox.
 
 # Exercícios e Conclusões
 
