@@ -1,0 +1,8 @@
+ ### Conversão de tipo automático
+
+ - O JavaScript em determinadas operações, converte silenciosamente o tipo de resultado final da operação, veja:
+
+- console.log(5 * null); // 0
+- console.log("5" - 3); // 2
+- console.log("5" + 1); // 51
+- console.log("dois" * "três"); // NaN
