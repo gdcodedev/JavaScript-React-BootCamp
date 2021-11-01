@@ -25,3 +25,11 @@
 - && - and para ser true, os dois 'lados' da comparação precisam ser true
 - || - or para ser true, basta um dos 'lados' da comparação ser true;
 - ! - not inverter os valores ( true vira false);
+
+
+### Booleans: Operador ternário
+
+- Faz um comparativo em apenas uma linha de código;
+- console.log( false ? 1 : 2 );
+- console.log ( false ? 'falso' : 'verdadeiro');
+- Não é muito utilizado e pode deixar o código complicado de ler;
