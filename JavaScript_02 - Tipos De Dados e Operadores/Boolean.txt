@@ -1,0 +1,27 @@
+### Booleans
+
+- Serve para guardar um valor de uma compração, por exemplo:
+- Os únicos valores possíveis são:
+- True (verdadeiro);
+- False (falso);
+- console.log(5 > 2);
+- console.log(3 > 10); 
+
+
+### Booleans: Comparações
+
+- Maior que: >
+- Menor que: <
+- Maior ou igual: >=
+- Menos ou igual: <=
+- Igual: ==
+- Diferente: !=
+- Idêntico: ===
+
+
+### Booleans: Operadores lógicos
+
+- Por meio de uma compração resultam em um Boolean
+- && - and para ser true, os dois 'lados' da comparação precisam ser true
+- || - or para ser true, basta um dos 'lados' da comparação ser true;
+- ! - not inverter os valores ( true vira false);
