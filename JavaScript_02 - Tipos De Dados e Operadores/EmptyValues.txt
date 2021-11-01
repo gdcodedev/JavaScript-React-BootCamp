@@ -1,0 +1,5 @@
+### Empty Values
+
+- Temos duas palavras reservadas da linguagem que servem para estes casos:
+- undefined e null;
+- Sempre que se deparar com estas palavras, o JS basicamente quer dizer que os valores não existem;
