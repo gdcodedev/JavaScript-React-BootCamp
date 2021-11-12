@@ -1,0 +1,30 @@
+### O que é um programa/software
+
+- É um conjunto de declarações (Statements);
+- Statements são conjuntos de expressões (expressions);
+- expression é todo o fragmento de código que produz um valor;
+- software tem um objetivo;
+- Statements guiam o software para o seu objetivo;
+- expressions são os valores que os Statements esperar para guiar o software;
+
+
+### Como salvar valores na memória
+
+- Salvamos os valores em variáveis (isso é um Statement);
+- let laranjas = 5;
+- E depois podemos criar expressões com os valores salvos;
+-  console.log(laranjas * laranjas);
+- console.log(`Tem ${laranjas} na sexta`);
+
+
+- Podemos também  mudar o valor que foi salvo anteriormente;
+- laranjas = laranjas +1;
+- console.log(laranjas);
+- Um let pode definir várias variáveis também;
+- let quadrado = 4, triangulo = 3, retangulo = 4;
+
+- console.log( quadrado * (triangulo + retangulo));
+
+### Outras formas de salvar valores;
+- var é uma forma mais antiga , você deve optar pelo let ou const;
+- const vem de constante, ou seja, o seu valor não pode ser alterado;
